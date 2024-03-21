@@ -1,0 +1,19 @@
+div{
+    width: 100%;
+}
+
+.products{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.products li{
+    list-style: none;
+    border: 2px solid #FFFF;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin: 0 10px;
+    width: 25%;
+}
