@@ -16,24 +16,14 @@
       "price": 29.9
     },
     {
-      "name": "test",
-      "price": "12",
-      "id": 4
-    },
-    {
-      "name": "test2",
-      "price": "50.50",
-      "id": 5
-    },
-    {
-      "name": "test3",
-      "price": "50.55",
-      "id": 6
-    },
-    {
       "name": "cadeira",
       "price": "200",
       "id": 7
+    },
+    {
+      "name": "mause",
+      "price": "70",
+      "id": 8
     }
   ]
 }
